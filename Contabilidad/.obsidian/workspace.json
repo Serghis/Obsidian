@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "9b556a466996424d",
+    "type": "split",
+    "children": [
+      {
+        "id": "40090fd4d724bc8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4e26eb7b3f0fb90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo V/FZ2/Tema La Función Financiera/La Función Financiera de la Empresa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07c1709391edd8a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo V/DOCTRINA SOCIAL (DSO -B)/CUESTIONES GENERALES DE LA DSI.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c684720ad386d141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo IV/CF2/Temas del curso vistos (CF2).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f002e23c61a4da66",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c3c69e2f628f9b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d802fdc1ab6beb9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c40b9d4709af09a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3fd02af8870f7152",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8db4268d5277d8d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a93390b0a683cfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d618f53557a88dc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ciclo V/DOCTRINA SOCIAL (DSO -B)/CUESTIONES GENERALES DE LA DSI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1dab16452dad073b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ciclo V/DOCTRINA SOCIAL (DSO -B)/CUESTIONES GENERALES DE LA DSI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8920bdaf732f1f7b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c668fa6916b46e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ciclo V/DOCTRINA SOCIAL (DSO -B)/CUESTIONES GENERALES DE LA DSI.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "07c1709391edd8a9",
+  "lastOpenFiles": [
+    "Ciclo IV/CF2/Temas del curso vistos (CF2).md",
+    "Ciclo IV/CF2/NIC 40 (Propiedades de Inversión).md",
+    "Ciclo V/FZ2/Tema La Función Financiera/La Función Financiera de la Empresa.md",
+    "Ciclo V/DOCTRINA SOCIAL (DSO -B)/CUESTIONES GENERALES DE LA DSI.md",
+    "Ciclo IV/CF2/NIC 37  (Provisiones, pasivos y activos contigentes).md",
+    "Ciclo IV/CF2/Nic 2 (Inventarios).md",
+    "Ciclo IV/CF2/NIC 16 (Propiedad Planta y equipo).md",
+    "Ciclo IV/CF2",
+    "Ciclo IV",
+    "Ciclo V/DOCTRINA SOCIAL (DSO -B)/El próposito de la DSI.md",
+    "Ciclo V/DOCTRINA SOCIAL (DSO -B)/Que NO es DSI.md",
+    "Ciclo V/FZ2/Tema La Función Financiera/Actividades del Gerente Financiero.md",
+    "Ciclo V/FZ2/Tema La Función Financiera/Diagnostico Financiero.md",
+    "Ciclo V/FZ2/FINANZAS OPERATIVAS (FZ2).md",
+    "Ciclo V/LIBERTAD (MILL - B)/LIBERTAD (MILL).md",
+    "Ciclo V/CF3/NIC 36/NIC 36 (Deterioro de los activos).md",
+    "Ciclo V/LIBERTAD (MILL - B)/UNIDAD I/Naturaleza en Sentido Metafísico.md",
+    "Ciclo V/PROGRAMA DE CONTABILIDAD.md",
+    "Ciclo V/LIBERTAD (MILL - B)/UNIDAD I/Captura de pantalla 2023-03-28 173621.png",
+    "Ciclo V/LIBERTAD (MILL - B)/UNIDAD I/Naturaleza y Cultura.md",
+    "Ciclo V/LIBERTAD (MILL - B)/UNIDAD I/La naturlaza Significado.canvas",
+    "Ciclo V/LIBERTAD (MILL - B)/UNIDAD I/Naturaleza en Sentido Físico.md",
+    "Ciclo V/LIBERTAD (MILL - B)/UNIDAD I",
+    "Ciclo V/CC2/Tema 1.md",
+    "Ciclo V/CC2/Contabilidad de Costos (CC2).md",
+    "Ciclo V/CC2",
+    "Ciclo V/FZ2/Tema La Función Financiera",
+    "Ciclo V/CF3/NIC 36/Objetivo.md",
+    "Ciclo V/FZ2",
+    "Ciclo V/Untitled.canvas",
+    "Ciclo V/DOCTRINA SOCIAL (DSO -B)/DOCTRINA SOCIAL (DSO).md",
+    "Ciclo V/CF3/CF3.md",
+    "Ciclo V/CF3/NIC 36",
+    "Untitled.canvas",
+    "Ciclo V/CF3",
+    "Ciclo V/DOCTRINA SOCIAL (DSO -B)/La Funciones de un cristiano",
+    "Ciclo V/LIBERTAD _ (MILL - B).md",
+    "Ciclo V/DOCTRINA SOCIAL (DSO -B)",
+    "Ciclo V.md"
+  ]
+}

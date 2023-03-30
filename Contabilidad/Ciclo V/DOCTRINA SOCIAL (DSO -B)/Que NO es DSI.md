@@ -1,0 +1,2 @@
+la Doctrina Social no es simplemente un conjunto abstracto de ideas, sino que se basa en la experiencia concreta de la injusticia social y económica y en la enseñanza de Jesucristo. Además, la Doctrina Social no es propiedad exclusiva de un Papa o sabio en particular, sino que se ha ido enriqueciendo y perfeccionando a lo largo del tiempo a medida que las necesidades de los tiempos lo demandan.
+[[CUESTIONES GENERALES DE LA DSI]]

@@ -1,0 +1,1 @@
+Establece los procedimientos para que mi activo este registrado correctamente, es decir, que sea una información relevante, representativa y fiel. Asimismo 

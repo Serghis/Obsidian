@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"type":"text","text":"Polisémico Dos sentidos ","id":"2f774feab18057df","x":-261,"y":40,"width":250,"height":50},
+		{"type":"text","text":"Naturaleza (Clásico: Aristotélico - Escolástico)","id":"6c83ca8c9eb54a50","x":-261,"y":-60,"width":250,"height":50,"color":"2"},
+		{"type":"file","file":"Ciclo V/LIBERTAD (MILL - B)/UNIDAD I/Naturaleza en Sentido Físico.md","id":"0260045b6e536201","x":-592,"y":320,"width":400,"height":280},
+		{"type":"text","text":"Que las hace naturales?","id":"e15c692621207fcd","x":-1020,"y":360,"width":250,"height":60},
+		{"type":"text","text":"Pero hay productos naturales en los cuales interviene el ser humano","id":"d2b96409dbff98a6","x":-1088,"y":500,"width":318,"height":60},
+		{"type":"file","file":"Ciclo V/LIBERTAD (MILL - B)/UNIDAD I/Naturaleza en Sentido Metafísico.md","id":"d18d484d8338243c","x":-40,"y":320,"width":461,"height":280},
+		{"type":"text","text":"No requieren intervención fuera de lo normal (Puede haber ayuda)","id":"4103bfe76ac6db21","x":-529,"y":734,"width":250,"height":60},
+		{"type":"text","text":"El cuerpo humano esta diseñado de esa manera que hace que actúa de esa forma.","id":"01deb66e5ef03e2f","x":520,"y":320,"width":250,"height":50},
+		{"type":"text","text":"Este objeto hace unas cosas pero que lo dirigen hacia algo","id":"82c6e287a5a38edb","x":520,"y":500,"width":250,"height":60},
+		{"type":"text","text":"Finalidad Intencionalidad. Causalidad Final, Teleología (Teo = FIn), direcionalidad","id":"38c6b0df05729d0f","x":840,"y":460,"width":250,"height":105},
+		{"type":"text","text":"La naturaleza es sinonimo de esencia (aunque esencia es un término más amplio), un servatillo tiene la misma esencia. ","id":"35c537fbb9b6b443","x":71,"y":655,"width":350,"height":139},
+		{"type":"text","text":"Todos lo seres humanos tienen una esencia: la naturaleza humana concretisada en distintos individuos","id":"a087bdcf60470f07","x":520,"y":659,"width":250,"height":135},
+		{"type":"text","text":"Todas mis acciones me dirigen a una cosa en concreto todos","id":"00713e8b7ead7290","x":941,"y":651,"width":250,"height":109},
+		{"type":"file","file":"Ciclo V/LIBERTAD (MILL - B)/UNIDAD I/Captura de pantalla 2023-03-28 173621.png","id":"13f13c6933c04cb9","x":171,"y":1045,"width":309,"height":400}
+	],
+	"edges":[
+		{"id":"55d5dd1778d2168f","fromNode":"6c83ca8c9eb54a50","fromSide":"bottom","toNode":"2f774feab18057df","toSide":"top"},
+		{"id":"f7944687c9cabcfa","fromNode":"2f774feab18057df","fromSide":"bottom","toNode":"0260045b6e536201","toSide":"top"},
+		{"id":"4a68434b7c56d2ea","fromNode":"0260045b6e536201","fromSide":"left","toNode":"e15c692621207fcd","toSide":"right"},
+		{"id":"b9fdd2faad9893c4","fromNode":"0260045b6e536201","fromSide":"left","toNode":"d2b96409dbff98a6","toSide":"right"},
+		{"id":"e38d456d20997796","fromNode":"2f774feab18057df","fromSide":"bottom","toNode":"d18d484d8338243c","toSide":"top"},
+		{"id":"520b565b78b92e0c","fromNode":"0260045b6e536201","fromSide":"bottom","toNode":"4103bfe76ac6db21","toSide":"top"},
+		{"id":"94bbbea122ac16bd","fromNode":"d18d484d8338243c","fromSide":"right","toNode":"01deb66e5ef03e2f","toSide":"left"},
+		{"id":"9f1bd067d956850f","fromNode":"82c6e287a5a38edb","fromSide":"right","toNode":"38c6b0df05729d0f","toSide":"left"},
+		{"id":"0be8e95497f21a13","fromNode":"d18d484d8338243c","fromSide":"right","toNode":"82c6e287a5a38edb","toSide":"left"},
+		{"id":"fd73d26b023a7088","fromNode":"d18d484d8338243c","fromSide":"bottom","toNode":"35c537fbb9b6b443","toSide":"top"},
+		{"id":"4e513e30d7b3aa62","fromNode":"35c537fbb9b6b443","fromSide":"right","toNode":"a087bdcf60470f07","toSide":"left"},
+		{"id":"f6433a076bc1da44","fromNode":"a087bdcf60470f07","fromSide":"right","toNode":"00713e8b7ead7290","toSide":"left"}
+	]
+}

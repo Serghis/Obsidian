@@ -1,0 +1,5 @@
+[[PROGRAMA DE CONTABILIDAD]]
+- [[Nic 2 (Inventarios)]]
+- [[NIC 36 (Deterioro de los activos)]]
+- [[NIC 37  (Provisiones, pasivos y activos contigentes)]]
+- [[NIC 40 (Propiedades de Inversión)]]

@@ -1,0 +1,1 @@
+- Los entes naturlaes poseen una "naturaleza" un principio intrínsico de actividad
